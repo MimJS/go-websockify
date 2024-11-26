@@ -1,13 +1,2 @@
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-bin/
-
-dist/
-.cache/
-*.log
-node_modules/
-*.DS_Store
+*
+!websockify.exe
